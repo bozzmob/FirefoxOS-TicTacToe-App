@@ -1,0 +1,13 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "Most Addictive Game",
+  "launch_path": "index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Satvik Jagannath",
+    "url": "http://jusstech.com"
+  },
+  "default_locale": "en"
+}
