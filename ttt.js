@@ -1,7 +1,6 @@
-
 <HTML> 
 <HEAD> 
-        <TITLE>Tic Tac Toe</TITLE> 
+<TITLE>Tic Tac Toe</TITLE> 
 <script language = javascript> 
 var myPointer, urPointer
 var gameStart = false
