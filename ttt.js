@@ -463,9 +463,6 @@ function clearMatrix()
 <input type = button name = b22 value = "        " onclick = getInput(2,2) ><BR> 
 </center> 
  
-</form> 
- 
- 
-</BODY> 
-</HTML> 
- 
+</form>
+</BODY>
+</HTML>
